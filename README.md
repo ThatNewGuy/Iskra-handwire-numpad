@@ -15,10 +15,10 @@ Iskra is a DIY 10‑key hand‑wired macropad designed for both wired USB and Bl
 ### Real photos
 <p>
   <img src="files%20and%20media/real%20pics/home%20view.jpg" alt="Home view" width="45%"/>
-  <img src="files%20and%20media/real%20pics/top%20view.jpg" alt="Top view" width="45%"/>
+  <img src="files%20and%20media/real%20pics/top%20view.jpg" alt="With printed keycap" width="45%"/>
 </p>
 <p>
-  <img src="files%20and%20media/real%20pics/with%20printed%20keycaps.jpg" alt="With printed keycaps" width="45%"/>
+  <img src="files%20and%20media/real%20pics/card%20compare%202.jpg" alt="Card compare 2" width="45%"/>
   <img src="files%20and%20media/real%20pics/card%20compare%201.jpg" alt="Card compare 1" width="45%"/>
 </p>
 
@@ -63,14 +63,6 @@ Note: The prebuilt firmware assumes the same controller (nRF52840 nice!nano v2�
 ---
 
 ### Layout, Layers, and Combos
-
-Physical layout (10 keys in a 3×4 matrix with two empty positions in the first two rows):
-
-```
-1 2 3 _
-4 5 6 _
-7 8 9 0
-```
 
 ![Keymap](files%20and%20media/iskra%20keymap.png)
 
@@ -143,14 +135,6 @@ Reference image: ![Pinout](files%20and%20media/Pinout%20for%20rows%20and%20colum
 Exploded view:
 
 ![Exploded view](files%20and%20media/exploded%20view.png)
-
----
-
-### Hardware/firmware details (from ZMK config)
-- Microcontroller: **nRF52840**, board: **nice_nano_v2**
-- Matrix: **3 rows × 4 cols**, diode direction **COL2ROW**
-- Transport: **USB** and **BLE**
-- Studio: **enabled**
 
 ---
 
