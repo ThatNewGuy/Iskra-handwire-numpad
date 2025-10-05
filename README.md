@@ -15,7 +15,7 @@ Iskra is a DIY 10‑key hand‑wired macropad designed for both wired USB and Bl
 ### Real photos
 <p>
   <img src="files%20and%20media/real%20pics/home%20view.jpg" alt="Home view" width="45%"/>
-  <img src="files%20and%20media/real%20pics/top%20view.jpg" alt="With printed keycap" width="45%"/>
+  <img src="files%20and%20media/real%20pics/with%20printed%20keycaps.jpg" alt="With printed keycaps" width="45%"/>
 </p>
 <p>
   <img src="files%20and%20media/real%20pics/card%20compare%202.jpg" alt="Card compare 2" width="45%"/>
