@@ -30,8 +30,8 @@ Iskra is a DIY 10‑key hand‑wired macropad designed for both wired USB and Bl
 | --- | ---: | ---: | --- |
 | Kailh Choc switches | 10 | 2.00 | [AliExpress](https://www.aliexpress.com/item/1005006626760418.html) |
 | Pro Micro nRF52840 (nice!nano clone) | 1 | 3.80 | [AliExpress](https://www.aliexpress.com/item/1005007010555229.html) |
-| M3 brass standoff, 6 mm | 2 | 0.20 | [AliExpress](https://www.aliexpress.com/item/1005006049595637.html) |
-| M3 screw, 6 mm | 4 | 0.10 | [AliExpress](https://www.aliexpress.com/item/1005005070119421.html) |
+| M2 brass standoff, 6 mm | 2 | 0.20 | [AliExpress](https://www.aliexpress.com/item/1005006049595637.html) |
+| M2 screw, 6 mm | 4 | 0.10 | [AliExpress](https://www.aliexpress.com/item/1005005070119421.html) |
 | 1N4148 diodes | 10 | 0.13 | [AliExpress](https://www.aliexpress.com/item/1005006861038367.html) |
 | Copper wire | 15 cm | 0.05 | [AliExpress](https://www.aliexpress.com/item/1005009078359338.html) |
 
